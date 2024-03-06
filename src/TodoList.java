@@ -78,7 +78,7 @@ public class TodoList {
         if (numTasks>0){
             return totalUrgency/numTasks;
         } else{
-            return 0.0
+            return 0.0;
                 }
     }
 
